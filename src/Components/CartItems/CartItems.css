@@ -55,7 +55,7 @@
     height: 50px;
     outline: none;
     border: none;
-    background: #ff5a5a;
+    background: #945aff;
     color: #fff;
     font-size: 14px;
     font-weight: 600;
@@ -149,4 +149,8 @@
         grid-template-columns: 0.5fr 3fr 0.5fr;
         gap: 10px;
     }
+}
+
+.checkout{
+    background-color : #945aff
 }
